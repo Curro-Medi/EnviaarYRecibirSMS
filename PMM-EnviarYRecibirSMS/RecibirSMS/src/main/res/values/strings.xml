@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecibirSMS</string>
+    <string name="tit">Esperando el codigo de confirmacion...</string>
+    <string name="btnaceptar">ACEPTAR</string>
+</resources>
